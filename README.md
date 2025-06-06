@@ -13,6 +13,5 @@ I'm a passionate software engineer with a love for coding and a special affinity
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://github.com" target="_blank" rel="noreferrer">![image](https://github.com/user-attachments/assets/f2cca885-d63c-4592-8e24-b3a5fd750edb)
-</a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="36" height="36" alt="GitHub" /></a>
 </p>
