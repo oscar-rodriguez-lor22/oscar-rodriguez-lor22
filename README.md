@@ -1,4 +1,4 @@
-## My Stats
+---
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oscar-rodriguez-lor22&hide_border=true" alt="GitHub Streak" />
