@@ -28,15 +28,6 @@ I'm a passionate software engineer with a love for coding and a special affinity
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40" height="40" alt="Next" />
-  </a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/2048px-Three.js_Icon.svg.png" width="40" height="40" alt="Three" />
-  </a> 
-  <a href="https://p5js.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/P5js_Logo.svg/2560px-P5js_Logo.svg.png" width="40" height="40" alt="P5" />
   </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="60" height="40" alt="Tailwind" />
