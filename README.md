@@ -4,7 +4,12 @@ I'm a passionate software engineer with a love for coding and a special affinity
 
 👨‍💻 Software Engineer | 💻 JavaScript & Python Enthusiast | :penguin: Linux User
 
-## Frameworks & Tools
+## Technologies & Tools
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ### Languages
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -20,6 +25,9 @@ I'm a passionate software engineer with a love for coding and a special affinity
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
 </p>
+
+</td>
+<td valign="top" width="50%">
 
 ### Frameworks & Tools
 <p align="left">
@@ -39,6 +47,10 @@ I'm a passionate software engineer with a love for coding and a special affinity
     <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="40" height="40" alt="GitHub" />
   </a>
 </p>
+
+</td>
+</tr>
+</table>
 
 
 ## Connect!
