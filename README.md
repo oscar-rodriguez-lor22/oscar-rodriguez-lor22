@@ -2,7 +2,7 @@
 
 I'm a passionate software engineer with a love for coding and a special affinity for JavaScript & Python. 
 
-👨‍💻 Software Engineer | 💻 JavaScript & Python Enthusiast | :neckbeard: Linux User
+👨‍💻 Software Engineer | 💻 JavaScript & Python Enthusiast | :penguin: Linux User
 
 ## Frameworks & Tools
 ### Languages
@@ -29,6 +29,21 @@ I'm a passionate software engineer with a love for coding and a special affinity
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
   </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/368858/nextjs.svg" width="40" height="40" alt="Next" />
+  </a>
+  <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/2048px-Three.js_Icon.svg.png" width="40" height="40" alt="Three" />
+  </a> 
+  <a href="https://p5js.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/P5js_Logo.svg/2560px-P5js_Logo.svg.png" width="40" height="40" alt="P5" />
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" height="40" alt="Tailwind" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" height="40" alt="Tailwind" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
   </a>
@@ -48,5 +63,3 @@ I'm a passionate software engineer with a love for coding and a special affinity
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-
----
