@@ -6,51 +6,35 @@ I'm a passionate software engineer with a love for coding and a special affinity
 
 ## Technologies & Tools
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Languages
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/NikosDev/NikosDev/main/icons/js.png" width="40" height="40" alt="JavaScript" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); gap: 15px; align-items: center; max-width: 600px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/NikosDev/NikosDev/main/icons/js.png" width="40" height="40" alt="JavaScript" style="border: none; display: block;" />
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/NikosDev/NikosDev/main/icons/ts.png" width="40" height="40" alt="TypeScript" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/NikosDev/NikosDev/main/icons/ts.png" width="40" height="40" alt="TypeScript" style="border: none; display: block;" />
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border: none; display: block;" />
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="border: none; display: block;" />
   </a>
-</p>
-
-</td>
-<td valign="top" width="50%">
-
-### Frameworks & Tools
-<p align="left">
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" />
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" style="border: none; display: block;" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="60" height="40" alt="Tailwind" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" style="border: none; display: block;" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" />
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="border: none; text-decoration: none;">
+    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40" height="40" alt="Tailwind" style="border: none; display: block;" />
   </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="40" height="40" alt="GitHub" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="border: none; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" style="border: none; display: block;" />
   </a>
-</p>
-
-</td>
-</tr>
-</table>
+  <a href="https://github.com" target="_blank" rel="noreferrer" style="border: none; text-decoration: none;">
+    <img src="https://img.icons8.com/?size=100&id=63777&format=png&color=000000" width="40" height="40" alt="GitHub" style="border: none; display: block;" />
+  </a>
+</div>
 
 
 ## Connect!
