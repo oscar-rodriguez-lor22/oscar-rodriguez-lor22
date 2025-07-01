@@ -6,7 +6,7 @@ I'm a passionate software engineer with a love for coding and a special affinity
 
 ## Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,py,nodejs,mysql,sqlite,react,bash,tailwind,html,flask,css,nextjs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,sqlite,py,react,nextjs,nodejs,bash,mysql,flask,tailwind,npm)](https://skillicons.dev)
 
 
 ## Connect!
